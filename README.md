@@ -21,8 +21,8 @@ Abra o app.py no Pydroid e clique em Run.
 ## 🛠 Tecnologias
 - Python
 - GitHub
-- ## 📌 Exemplo de uso
-
+  
+# 📌 Exemplo de uso
 Aparelho: Geladeira  
 Consumo estimado: 45.00 kWh/mês  
 Custo estimado: R$ 33.75
